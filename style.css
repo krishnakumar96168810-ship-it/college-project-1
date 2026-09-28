@@ -692,7 +692,7 @@ body {
 
 footer {
     background: #081b1b;
-
+    margin-top: 20px;
     color: white;
 
     text-align: center;
@@ -1103,7 +1103,11 @@ footer .copyright {
     }
 
 }
-.title{
+/* contact{
+  display: flex;
+
+} */
+ .title{
 text-align:center;
 margin-bottom:50px;
 font-size:2.5rem;
